@@ -1,1 +1,4 @@
-export const INCREMENT_COUNT = 'INCREMENT_COUNT';
+// export const INCREMENT_COUNT = 'INCREMENT_COUNT';
+
+// BUDGET SETTER
+export const SET_BUDGET = 'SET_BUDGET';
