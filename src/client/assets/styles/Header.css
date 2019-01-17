@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:900i');
+
+#header {
+  background-color: orange;
+  display: flex;
+  justify-content: center;
+}
+
+h1 {
+  font-family: 'Lato', sans-serif;
+  font-size: 2.5rem;
+}

@@ -1,0 +1,8 @@
+#set-budget {
+  border: 2px solid red;
+  width: 20vw;
+}
+
+#set-budget > * {
+  margin-left: 10px;
+}

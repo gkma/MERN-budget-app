@@ -1,0 +1,6 @@
+#form-container {
+  display: inline-block;
+  border: 2px solid gold;
+  height: 80vh;
+  margin-top: 1%;
+}
