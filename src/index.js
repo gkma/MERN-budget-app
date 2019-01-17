@@ -4,7 +4,7 @@ import ReactDOM from 'react-dom';
 import { Provider } from 'react-redux';
 import store from './client/store';
 
-import App from './client/App';
+import App from './client/App.jsx';
 
 const rootElement = document.getElementById('root');
 
